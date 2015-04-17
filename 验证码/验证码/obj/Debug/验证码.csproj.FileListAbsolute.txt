@@ -1,0 +1,15 @@
+E:\C#程序\验证码\验证码\bin\Debug\验证码.exe.config
+E:\C#程序\验证码\验证码\bin\Debug\验证码.exe
+E:\C#程序\验证码\验证码\bin\Debug\验证码.pdb
+E:\C#程序\验证码\验证码\obj\Debug\验证码.csprojResolveAssemblyReference.cache
+E:\C#程序\验证码\验证码\obj\Debug\MainWindow.baml
+E:\C#程序\验证码\验证码\obj\Debug\MainWindow.g.cs
+E:\C#程序\验证码\验证码\obj\Debug\App.g.cs
+E:\C#程序\验证码\验证码\obj\Debug\验证码_MarkupCompile.cache
+E:\C#程序\验证码\验证码\obj\Debug\验证码.g.resources
+E:\C#程序\验证码\验证码\obj\Debug\验证码.Properties.Resources.resources
+E:\C#程序\验证码\验证码\obj\Debug\验证码.csproj.GenerateResource.Cache
+E:\C#程序\验证码\验证码\obj\Debug\验证码.exe
+E:\C#程序\验证码\验证码\obj\Debug\验证码.pdb
+E:\C#程序\验证码\验证码\bin\Debug\ImageLibrary.pdb
+E:\C#程序\验证码\验证码\bin\Debug\ImageLibrary.dll
