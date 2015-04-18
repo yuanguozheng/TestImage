@@ -13,3 +13,17 @@ E:\C#程序\验证码\验证码\obj\Debug\验证码.exe
 E:\C#程序\验证码\验证码\obj\Debug\验证码.pdb
 E:\C#程序\验证码\验证码\bin\Debug\ImageLibrary.pdb
 E:\C#程序\验证码\验证码\bin\Debug\ImageLibrary.dll
+F:\oxx\image\TestImage\验证码\验证码\bin\Debug\验证码.exe.config
+F:\oxx\image\TestImage\验证码\验证码\obj\Debug\验证码.exe
+F:\oxx\image\TestImage\验证码\验证码\obj\Debug\验证码.pdb
+F:\oxx\image\TestImage\验证码\验证码\bin\Debug\验证码.exe
+F:\oxx\image\TestImage\验证码\验证码\bin\Debug\验证码.pdb
+F:\oxx\image\TestImage\验证码\验证码\bin\Debug\ImageLibrary.pdb
+F:\oxx\image\TestImage\验证码\验证码\obj\Debug\验证码.csprojResolveAssemblyReference.cache
+F:\oxx\image\TestImage\验证码\验证码\obj\Debug\MainWindow.baml
+F:\oxx\image\TestImage\验证码\验证码\obj\Debug\MainWindow.g.cs
+F:\oxx\image\TestImage\验证码\验证码\obj\Debug\App.g.cs
+F:\oxx\image\TestImage\验证码\验证码\obj\Debug\验证码_MarkupCompile.cache
+F:\oxx\image\TestImage\验证码\验证码\obj\Debug\验证码.g.resources
+F:\oxx\image\TestImage\验证码\验证码\obj\Debug\验证码.Properties.Resources.resources
+F:\oxx\image\TestImage\验证码\验证码\obj\Debug\验证码.csproj.GenerateResource.Cache
